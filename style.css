@@ -1,0 +1,21 @@
+#mainNews{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 20px;
+}
+/* nav{
+     position: fixed;
+    top: 0;
+    z-index: -100000 !important; 
+} */
+#mainNews{
+    position: relative;
+    left: 30px;
+    /* margin: auto; */
+}
+button{
+    outline: none;
+transition: all .05s ease .01s; 
+text-transform: capitalize; 
+}
